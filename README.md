@@ -26,3 +26,31 @@
   Yo, <strong>EliasarYT</strong>, <u>no ofrezco soporte</u> ni actualizaciones para este bot. Son libres de usar estos códigos como deseen.<br><br>
   Una vez aclarado este punto, prosigue la instalación:
 </p>
+
+
+
+# Instalación del Bot
+
+1. Concede acceso al almacenamiento:
+
+```bash
+termux-setup-storage
+```
+
+2. Actualiza e instala dependencias:
+
+```bash
+apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash libwebp git nodejs ffmpeg wget imagemagick yarn -y
+```
+
+3. Clona el repositorio e instala dependencias:
+
+```bash
+git clone https://github.com/Eliasar54/Kurotaka-MD && cd Kurotaka-MD && npm install
+```
+
+4. Inicia el bot:
+
+```bash
+npm start
+```
