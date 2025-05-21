@@ -6,3 +6,12 @@
 <p align="center">
   <img src="https://cdn.russellxz.click/dbf62b65.jpeg" alt="Imagen centrada" width="800">
 </p>
+
+
+
+
+> <p align="center">
+  <a href="https://github.com/Eliasar54">
+    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=30&duration=3000&color=00FEEF&center=true&vCenter=true&lines=Proyecto+Kurotaka" alt="Proyecto Kurotaka animado" />
+  </a>
+</p>
