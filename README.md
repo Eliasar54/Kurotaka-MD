@@ -20,6 +20,9 @@
 ## explicación: 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&lines=Este+es+un+proyecto+desarrollado+por+EliasarYT;Contiene+funciones+de+herramientas+no+RPG%2C+no+como+otros+bots.;El+bot+fue+creado+para+fines+de+testing.;Contiene+comandos+maliciosos+desactualizados+como+Forcekill.;Forcekill+bugueaba+WhatsApp+antes%2C+ya+no+funciona.;No+se+da+soporte+ni+actualizaciones+al+bot.;Puedes+usar+el+código+como+quieras.;Una+vez+aclarado+esto%2C+prosigue+la+instalación." alt="Descripción del Proyecto" />
+<p align="center" style="color:white;">
+  Este es un proyecto desarrollado por <strong>EliasarYT</strong>. En este código se encuentran principalmente funciones de herramientas que <strong>no</strong> son de tipo RPG como en otros bots.<br><br>
+  Este bot fue desarrollado con fines de testing, y aunque contiene funciones maliciosas, estas están desactualizadas. Un ejemplo es el comando <code>Forcekill</code>, que anteriormente servía para buguear el WhatsApp de alguien.<br><br>
+  Yo, <strong>EliasarYT</strong>, <u>no ofrezco soporte</u> ni actualizaciones para este bot. Son libres de usar estos códigos como deseen.<br><br>
+  Una vez aclarado este punto, prosigue la instalación:
 </p>
