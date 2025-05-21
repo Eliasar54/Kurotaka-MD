@@ -10,8 +10,8 @@
 
 
 
-> <p align="center">
+<p align="center">
   <a href="https://github.com/Eliasar54">
-    <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=30&duration=3000&color=00FEEF&center=true&vCenter=true&lines=Proyecto+Kurotaka" alt="Proyecto Kurotaka animado" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&color=F7A8B8&center=true&vCenter=true&multiline=true&lines=Proyecto+Kurotaka;Innovación+y+tecnología;Creando+el+futuro+línea+a+línea" alt="Proyecto Kurotaka animado" />
   </a>
 </p>
