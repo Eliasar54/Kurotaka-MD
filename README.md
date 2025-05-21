@@ -4,5 +4,5 @@
 > ya no are actualizaciones asi que lo istalas bago tu responsabilidad
 
 <p align="center">
-  <img src="https://cdn.russellxz.click/51998bcc.jpeg" alt="Imagen centrada" width="800">
+  <img src="https://cdn.russellxz.click/dbf62b65.jpeg" alt="Imagen centrada" width="800">
 </p>
