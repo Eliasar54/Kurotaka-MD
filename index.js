@@ -29,7 +29,10 @@ const {say} = cfonts;
 const color = (text, color) => {
 return !color ? chalk.green(text) : color.startsWith('#') ? chalk.hex(color)(text) : chalk.keyword(color)(text)
 }
-
+const tmpPath = path.join(__dirname, 'tmp');
+if (!fs.existsSync(tmpPath)) {
+    fs.mkdirSync(tmpPath);
+}
 //----------------[ BASE DE DATOS ]--------------------
 var low
 try {

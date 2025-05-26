@@ -1,5 +1,5 @@
 {
-  "name": "micashade",
+  "name": "Kurotaka",
   "version": "1.0.0",
   "description": "Base Bot",
   "main": "index.js",
@@ -12,7 +12,7 @@
   "author": "Eliasar54",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:gatanina-li/baileys",
+    "@whiskeysockets/baileys": "github:Eliasar54/bails",
     "@bochilteam/scraper": "4.2.4",
     "@brandond/findthelyrics": "^2.0.5",
     "@hapi/boom": "^10.0.1",
@@ -20,6 +20,7 @@
     "acrcloud": "^1.4.0",
     "adm-zip": "^0.5.16",
     "api-dylux": "^1.6.2",
+    "node-cache": "^5.1.2"
     "systeminformation": "^5.17.3",
     "aptoide-scraper": "^1.0.1",
     "awesome-phonenumber": "^5.10.0",
