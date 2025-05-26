@@ -12,7 +12,7 @@
   "author": "Eliasar54",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:Eliasar54/bails",
+    "@whiskeysockets/baileys": "github:gatanina-li/baileys",
     "@bochilteam/scraper": "4.2.4",
     "@brandond/findthelyrics": "^2.0.5",
     "@hapi/boom": "^10.0.1",
