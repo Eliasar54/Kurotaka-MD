@@ -54,3 +54,9 @@ git clone https://github.com/Eliasar54/Kurotaka-MD && cd Kurotaka-MD && npm inst
 ```bash
 npm start
 ```
+
+> # nota si el bot no envia el menu o otra cosa ejecute el siguiente comando en el chat del bot
+>
+```bash
+$ mkdir tmp
+```
