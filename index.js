@@ -29,6 +29,7 @@ const {say} = cfonts;
 const color = (text, color) => {
 return !color ? chalk.green(text) : color.startsWith('#') ? chalk.hex(color)(text) : chalk.keyword(color)(text)
 }
+const path = require('path')
 const tmpPath = path.join(__dirname, 'tmp');
 if (!fs.existsSync(tmpPath)) {
     fs.mkdirSync(tmpPath);
