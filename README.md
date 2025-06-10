@@ -46,7 +46,7 @@ apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash libwe
 3. Clona el repositorio e instala dependencias:
 
 ```bash
-git clone https://github.com/Eliasar54/Kurotaka-MD && cd Kurotaka-MD && npm install
+git clone https://github.com/Eliasar5 wilsalbot-MD && cd Kurotaka-MD && npm install
 ```
 
 4. Inicia el bot:
